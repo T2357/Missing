@@ -22,7 +22,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="Publish Missing Case.php">Missing Person Case</a>
-          <a class="dropdown-item" href="Publish Identified Case.php">Found Person Case</a>
+          <a class="dropdown-item" href="Publish Identified Case.php">Found Person Case</a><div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="About Us.php">About Us</a>
