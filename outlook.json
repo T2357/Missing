@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"4.9.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"outlook"},
+{"type":"table","name":"admin","database":"outlook","data":
+[
+{"ADMIN_ID":"2","ADMINNAME":"TUSHAR","PASSWORD":"TUSHAR@7352","Email":"Tushar2357@yahoomail.com"},
+{"ADMIN_ID":"3","ADMINNAME":"PALLAVI","PASSWORD":"PALLAVI01","Email":"pALLAVI01@gmail.com"}
+]
+}
+,{"type":"table","name":"feedback","database":"outlook","data":
+[
+{"S No.":"1","NAME":"Maynak Natekar","EMAIL":"Maynaknatekar@reddit.com","FEEDBACK":"Site is fine but there needs some patches to fulfill the loopholes."}
+]
+}
+,{"type":"table","name":"identified person case","database":"outlook","data":
+[
+]
