@@ -14,7 +14,7 @@
       <!-- The slideshow -->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="images/help.jpg" alt="First slide">
+          <img src="Missing/images/help.jpg" alt="First slide">
         </div>
         <div class="carousel-item">
           <img src="images/caro11.jpeg" alt="Second slide">
