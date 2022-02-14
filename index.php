@@ -15,7 +15,7 @@ session_start();
   <?php include 'navbar.php' ?><div>
     <a href="adminl.php" style="color:red">Are you a Admin</a>
       <p class="text-right" style="font-size:20px; color:red"> Welcome USER <?php echo $_SESSION['L_NAME']; ?></p>
-  <?php include 'carousel.php' ?>
+  <?php include 'Carousel.php' ?>
   <h4 style="color:#0000FF">
 Among all the persons who are reported to be missing, actually only few of them are out of our reach. Most of them are waiting somewhere for someone to help them connect with their family.
 <b>That “Someone” can be you or anyone like us.If you wish to do something visit our site.</h4>
