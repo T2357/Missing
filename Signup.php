@@ -90,7 +90,7 @@
     <!--Step 1 : Adding HTML-->
     <form method="post" action="Sign_up.php">
         <div class="imgcontainer">
-            <img src=images/logo.jpg alt="logo" height="250" width="600">
+            <img src=images/logo.JPG alt="logo" height="250" width="600">
 
         </div>
 
