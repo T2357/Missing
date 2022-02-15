@@ -75,7 +75,7 @@ p{
               <div class="form-group row">
                   <label for="inputHair-Color" class="col-lg-5 col-md-5 col-10 col-form-label">Hair Colour</label>
                   <div class="col-sm-10">
-                    <input type="text" class="form-control" name="HAIRCOLOR" placeholder="Hair-color">
+                    <input type="color" class="form-control" name="HAIRCOLOR" placeholder="Hair-color">
                   </div>
                 </div>
                 <div class="form-group row">
