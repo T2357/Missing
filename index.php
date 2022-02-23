@@ -4,6 +4,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
+<script defer data-domain="tushar01.herokuapp.com" src="https://plausible.io/js/plausible.js"></script>
 
 <title>MISSING PERSON WEBSITE</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
